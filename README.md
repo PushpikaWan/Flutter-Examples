@@ -33,3 +33,14 @@ Scaffold - widget that provide app bar
 ## Widget
 
 Stateless widgets - generic widget that never need to change
+
+## Data Types
+
+dart is strongly typed language. But it also flexible. we can define 'var'
+
+for number 
+- num can contains both int and double
+- double can contains only double
+- int can contains only int
+
+
