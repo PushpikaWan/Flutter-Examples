@@ -29,3 +29,7 @@ Center and Text are widgets
 MaterialApp - widget provided by materials
 
 Scaffold - widget that provide app bar
+
+## Widget
+
+Stateless widgets - generic widget that never need to change
