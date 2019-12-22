@@ -43,4 +43,24 @@ for number
 - double can contains only double
 - int can contains only int
 
+# additonal notes
+
+- use underscore (_) prefix with class or varible name to make those private 
+- can make differnet constructor like 
+
+```
+class MyApp {
+  var String name;
+  var int age;
+  
+  MyApp(int this.age){
+  }
+  
+  MyApp.withMaxAge(String this.name){
+    this.age = 60;
+  }
+  
+}
+```
+
 
